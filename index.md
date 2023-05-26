@@ -17,6 +17,6 @@ permalink: /
 C++, JAVA, Python, JavaScript.
 Android Studio.
 mySQL, OracleDB.
-and More
+and More...
 
 [깃허브 페이지](https://github.com/godokan)
