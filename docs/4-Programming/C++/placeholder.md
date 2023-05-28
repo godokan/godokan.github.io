@@ -2,6 +2,7 @@
 layout: default
 title: CPP 프로그래밍
 parent: C++
+grand_parent: Programming
 nav_order: 1
 ---
 

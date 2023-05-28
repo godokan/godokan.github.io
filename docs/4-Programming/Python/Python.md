@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python
-nav_order: 10
+nav_order: 2
 parent: Programming
 has_children: true
 permalink: docs/4-Programming/Python

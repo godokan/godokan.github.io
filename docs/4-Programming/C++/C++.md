@@ -1,7 +1,7 @@
 ---
 layout: default
 title: C++
-nav_order: 10
+nav_order: 1
 parent: Programming
 has_children: true
 permalink: docs/4-Programming/C++

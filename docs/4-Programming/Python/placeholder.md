@@ -2,6 +2,7 @@
 layout: default
 title: Python 프로그래밍
 parent: Python
+grand_parent: Programming
 nav_order: 1
 ---
 
