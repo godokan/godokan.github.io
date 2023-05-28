@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Python 프로그래밍
-parent: Python
+title: 프로그래밍
+parent: Programming
 nav_order: 1
 ---
 
