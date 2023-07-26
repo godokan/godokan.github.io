@@ -1,0 +1,6 @@
+# main links
+main:
+  - title: "소개"
+    url: /introduce/
+  - title: "카테고리"
+    url: /categories/
