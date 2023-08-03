@@ -1,6 +1,6 @@
 ---
 title: "컴퓨터개론 카테고리"
-permalink: /categories/sc/
+permalink: /categories/cs/
 layout: category
 author_profile: true
 taxonomy: 컴퓨터개론
