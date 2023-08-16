@@ -28,8 +28,8 @@ description              : "열심히 공부하고 나아지려고 노력하기 
 url                      : "https://godokan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/bio_hello_world.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/logo_godokan.png"
+logo                     : "/assets/images/logo_godokan_smol.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,7 +90,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio_hello_world.png"
+og_image                 : "/assets/images/logo_godokan.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "고도칸"
-  avatar           : "/assets/images/bio_hello_world.png"
+  avatar           : "/assets/images/logo_godokan.png"
   bio              : "개발자를 목표로 성장하려는 학생"
   location         : "South Korea"
   email            : 
