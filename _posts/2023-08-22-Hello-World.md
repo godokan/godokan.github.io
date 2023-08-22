@@ -1,6 +1,6 @@
 ---
 title: "'Hello World!'는 어디서부터 시작되었을까?"
-excerpt: "Hello World 사용의 기원에 대해 설명합니다."
+excerpt: "Hello World 사용의 기원에 대한 이야기입니다."
 categories:
     - 개발이야기
 tags:
