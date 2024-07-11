@@ -1,12 +1,12 @@
 ---
-title: "'Hello World!'는 어디서부터 시작되었을까?"
+title: "'Hello World!'는 어디서부터 시작되었을까? Hello World의 의미는?"
 excerpt: "Hello World 사용의 기원에 대한 이야기입니다."
 categories:
     - 개발이야기
 tags:
     - 개발
     - 이야기
-last_modified_at: 2023-08-22T16:10
+last_modified_at: 2024-07-11T19:45
 ---
 
 ## Hello, World!

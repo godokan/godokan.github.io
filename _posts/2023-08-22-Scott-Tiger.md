@@ -1,5 +1,5 @@
 ---
-title: "데이터베이스에서 scott과 tiger에 대한 이야기"
+title: "오라클의 scott과 tiger에 대한 이야기"
 excerpt: "DB 예제로 자주 사용하는 scott/tiger에 대한 이야기입니다."
 categories:
     - 개발이야기
@@ -7,7 +7,7 @@ tags:
     - 개발
     - 이야기
     - 데이터베이스
-last_modified_at: 2023-08-22T17:56
+last_modified_at: 2024-07-11T19:45
 ---
 
 ## scott/tiger
