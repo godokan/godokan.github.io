@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+DisAllow: /categories
+
+Sitemap: https://godokan.github.io/sitemap.xml
