@@ -1,6 +1,6 @@
 ---
 title: "잘 알려진 포트 (웰노운포트, Well-Known Port)"
-excerpt: "프로그래밍 언어 전반에서 사용되는 서식 지정자에 관해 설명합니다."
+excerpt: "전송 계층에서 사용하는 포트의 개념과 종류, 웰노운 포트 목록 등의 이야기"
 categories:
     - 컴퓨터개론
 tags:
@@ -9,7 +9,7 @@ tags:
     - 네트워크
     - TCP
     - UDP
-last_modified_at: 2024-08-07T20:53  
+last_modified_at: 2024-08-07T21:03
 ---
 
 ## 포트는 무엇인가?
