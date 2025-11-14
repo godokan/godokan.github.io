@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 DisAllow: /categories
+DisAllow: /assets/images/job/*
 
 Sitemap: https://godokan.github.io/sitemap.xml
